@@ -9,7 +9,8 @@ Python practice questions.
 -  Set
 
 
-## 2-Python Implementation of Abstract Data Structures [Reference](https://www.interviewcake.com/data-structures-reference) 
+## 2-Python Implementation of Abstract Data Structures 
+[Reference](https://www.interviewcake.com/data-structures-reference) 
 ### Linear Data Structures
 -  Array
 -  Dynamic Array
