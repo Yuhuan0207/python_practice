@@ -2,9 +2,10 @@
 Python practice questions.
 
 ## 1-Python Data Type
--  Numeric(Integer, Float, Complex number)
--  Sequence Type(String, List, Tuple)
 -  Boolean
+-  Numeric(Integer, Float, Complex number)
+-  Sequence Types(List, Tuple, Range)
+-  Textual Sequence Type(String)
 -  Dictionary
 -  Set
 
