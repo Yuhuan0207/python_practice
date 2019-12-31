@@ -6,12 +6,17 @@ Python practice questions.
 -  Numeric(Integer, Float, Complex number)
 -  Sequence Types(List, Tuple, Range)
 -  Textual Sequence Type(String)
--  Dictionary
--  Set
+-  Mapping Type(Dictionary)
+-  Set Types(Set)
+-  Iterator(open)
+-  Binary Sequency Types(open)
 
 
 ## 2-Python Implementation of Abstract Data Structures 
-[Reference](https://www.interviewcake.com/data-structures-reference) 
+References:
+- [Interview Cake](https://www.interviewcake.com/data-structures-reference) 
+- [VisuAlgo](https://visualgo.net/zh)
+- [Algorithm, 4th edition](https://algs4.cs.princeton.edu/home/)
 ### Linear Data Structures
 -  Array
 -  Dynamic Array
@@ -52,3 +57,4 @@ Python practice questions.
 
 References:
 [Python Practice @ w3resource](https://www.w3resource.com/python-exercises/)
+[Python Official Tutorial](https://docs.python.org/3/tutorial/index.html)
