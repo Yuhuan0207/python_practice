@@ -2,6 +2,7 @@
 Python practice questions.
 
 ## 1-Python Data Type
+Reference: [Python Built-in Type](https://docs.python.org/3/library/stdtypes.html#built-in-types)
 -  Boolean
 -  Numeric(Integer, Float, Complex number)
 -  Sequence Types(List, Tuple, Range)
@@ -58,3 +59,4 @@ References:
 References:
 [Python Practice @ w3resource](https://www.w3resource.com/python-exercises/)
 [Python Official Tutorial](https://docs.python.org/3/tutorial/index.html)
+[Python Programming FAQ](https://docs.python.org/3/faq/programming.html#programming-faq)
