@@ -5,15 +5,14 @@ Python practice questions.
 Reference: [Python Built-in Type](https://docs.python.org/3/library/stdtypes.html#built-in-types)
 -  Boolean
 -  Numeric(Integer, Float, Complex number)
--  Sequence Types(List, Tuple, Range)
--  Textual Sequence Type(String)
+-  Sequence Types(List, Tuple, Range) + -  Textual Sequence Type(String)
 -  Mapping Type(Dictionary)
 -  Set Types(Set)
 -  Iterator(open)
 -  Binary Sequency Types(open)
 
 
-## 2-Python Implementation of Abstract Data Structures 
+## 2-Python Implementation of Abstract Data Structures (Algorithm)
 References:
 - [Interview Cake](https://www.interviewcake.com/data-structures-reference) 
 - [VisuAlgo](https://visualgo.net/zh)
@@ -54,6 +53,7 @@ References:
 
 ## 5-Misc about Python
 - PEP8
+- virtual environment
 
 
 References:
