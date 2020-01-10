@@ -1,0 +1,3 @@
+Hi, this is a test file.
+I have to type in some random text,
+you know, for the purpose of testing.
